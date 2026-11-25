@@ -1,0 +1,3 @@
+{
+    "template": "Olá, {nome}! Você tem {idade} anos e torce para o {timeFavorito}!"
+}
